@@ -1,22 +1,52 @@
-<h1 align="center">Hi 👋, I'm RemyK</h1>
-<h3 align="center">A passionate developer from France.</h3>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">RemyK</a></h2>
+<p align="center">
+  <a href="https://www.npmjs.com/~remyk">NPM</a> •
+  <a href="https://discord.gg/ZCzxymB">Discord</a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=remyk888&label=Profile%20views&color=0e75b6&style=flat" alt="remyk888" /> </p>
+**Talking about Personal Stuffs:**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=remyk888" alt="remyk888" /></a> </p>
+- 👨🏽‍💻  I’m currently working on `discord-music-system`.
+- 🌱  I’m currently learning C++. 
+- 💬  Ask me about anything, I am happy to help.
+- 📫  How to reach me: rykor8@gmail.com.
 
-- 🔭 I’m currently working on [discord-music-system](https://www.npmjs.com/package/discord-music-system)
+***
 
-- 🌱 I’m currently learning **C#**
+ <br>
 
-- 🤝 I’m looking for help with **OS creation**
+📈 My Github stats <br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RemyK888&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemyK888&layout=compact&theme=dark" alt="top-langs" />
+</p>
 
-- 👨‍💻 All of my projects are available at [https://www.npmjs.com/~remyk](https://www.npmjs.com/~remyk)
+*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-- 💬 Ask me about **Node.JS**
+<br>
 
-- 📫 How to reach me **rykor8@gmail.com**
+**Languages and Tools**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remyk888&layout=compact" alt="remyk888" /></p>
+<code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img alt="Visual Studio Code" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img alt="HTML5" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img alt="CSS3" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img height="35rem" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=remyk888&show_icons=true" alt="remyk888" /></p>
+***
+
+<br />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/RemyK888/count.svg" />
+</p>
+
+-----
