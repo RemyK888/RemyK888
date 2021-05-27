@@ -6,10 +6,10 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on `discord-music-system`.
-- 🌱  I’m currently learning C++. 
+- 👨🏽‍💻  I’m currently working on `some cool but secret project`.
+- 🌱  I’m currently learning PHP. 
 - 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: rykor8@gmail.com.
+- 📫  How to reach me: `rykor8@gmail.com`.
 
 ***
 
