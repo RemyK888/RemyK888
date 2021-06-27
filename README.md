@@ -6,7 +6,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on `Foxcord`(https://foxcord.xyz)
+- 👨🏽‍💻  I’m currently working on `Foxcord` (https://foxcord.xyz)
 - 🌱  I’m currently learning PHP. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: `rykor8@gmail.com`.
